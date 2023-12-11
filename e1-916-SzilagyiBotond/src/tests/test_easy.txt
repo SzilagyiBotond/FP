@@ -1,0 +1,10 @@
+21;WHat is the biggest number?;9;5;2;9;easy
+73;What is the smallest number?;Romania;Uk;Brazil;Uk;medium
+10;WHat is the biggest number?;3;6;8;8;easy
+76;What is the smallest number?;China;Uk;Switzerland;China;medium
+39;What is the smallest number?;8;7;6;6;easy
+80;What is the smallest number?;Brazil;Switzerland;China;China;medium
+51;What is the smallest number?;3;1;6;1;easy
+68;What is the smallest number?;19;23;18;19;hard
+75;What is the smallest number?;Brazil;Switzerland;Canada;Canada;medium
+18;WHat is the biggest number?;4;3;5;5;easy

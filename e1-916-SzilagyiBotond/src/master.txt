@@ -1,0 +1,100 @@
+1;WHat is the biggest number?;6;5;8;8;easy
+2;WHat is the biggest number?;7;3;2;7;easy
+3;WHat is the biggest number?;7;6;10;10;easy
+4;WHat is the biggest number?;7;10;6;10;easy
+5;WHat is the biggest number?;2;3;10;10;easy
+6;WHat is the biggest number?;9;4;7;9;easy
+7;WHat is the biggest number?;2;1;7;7;easy
+8;WHat is the biggest number?;6;2;9;9;easy
+9;WHat is the biggest number?;6;8;3;8;easy
+10;WHat is the biggest number?;9;2;1;9;easy
+11;WHat is the biggest number?;2;4;5;5;easy
+12;WHat is the biggest number?;4;7;1;7;easy
+13;WHat is the biggest number?;5;7;2;7;easy
+14;WHat is the biggest number?;10;4;2;10;easy
+15;WHat is the biggest number?;4;6;7;7;easy
+16;WHat is the biggest number?;4;8;2;8;easy
+17;WHat is the biggest number?;8;5;7;8;easy
+18;WHat is the biggest number?;4;6;1;6;easy
+19;WHat is the biggest number?;1;3;5;5;easy
+20;WHat is the biggest number?;6;3;5;6;easy
+21;WHat is the biggest number?;3;9;4;9;easy
+22;WHat is the biggest number?;6;1;9;9;easy
+23;WHat is the biggest number?;3;7;2;7;easy
+24;WHat is the biggest number?;2;7;9;9;easy
+25;WHat is the biggest number?;7;3;5;7;easy
+26;WHat is the biggest number?;10;7;4;10;easy
+27;WHat is the biggest number?;6;4;2;6;easy
+28;WHat is the biggest number?;7;8;1;8;easy
+29;WHat is the biggest number?;7;4;10;10;easy
+30;WHat is the biggest number?;4;9;3;9;easy
+31;What is the smallest number?;3;8;5;3;easy
+32;What is the smallest number?;1;9;3;1;easy
+33;What is the smallest number?;7;2;4;2;easy
+34;What is the smallest number?;7;1;10;1;easy
+35;What is the smallest number?;10;4;8;4;easy
+36;What is the smallest number?;5;3;9;3;easy
+37;What is the smallest number?;10;3;5;3;easy
+38;What is the smallest number?;4;5;6;4;easy
+39;What is the smallest number?;10;2;7;2;easy
+40;What is the smallest number?;3;8;10;3;easy
+41;What is the smallest number?;1;4;3;1;easy
+42;What is the smallest number?;1;8;2;1;easy
+43;What is the smallest number?;3;10;1;1;easy
+44;What is the smallest number?;10;2;7;2;easy
+45;What is the smallest number?;1;10;6;1;easy
+46;What is the smallest number?;2;7;3;2;easy
+47;What is the smallest number?;9;10;2;2;easy
+48;What is the smallest number?;3;9;4;3;easy
+49;What is the smallest number?;8;6;4;4;easy
+50;What is the smallest number?;7;4;8;4;easy
+51;What is the smallest number?;9;10;7;7;easy
+52;What is the smallest number?;7;1;8;1;easy
+53;What is the smallest number?;10;5;2;2;easy
+54;What is the smallest number?;6;8;7;6;easy
+55;What is the smallest number?;5;6;1;1;easy
+56;What is the smallest number?;7;2;8;2;easy
+57;What is the smallest number?;3;8;7;3;easy
+58;What is the smallest number?;2;9;6;2;easy
+59;What is the smallest number?;5;2;6;2;easy
+60;What is the smallest number?;3;1;5;1;easy
+61;How old am I?;21;19;20;19;hard
+62;How old am I?;22;21;19;19;hard
+63;How old am I?;17;21;19;19;hard
+64;How old am I?;20;19;17;19;hard
+65;How old am I?;23;19;17;19;hard
+66;How old am I?;19;23;18;19;hard
+67;How old am I?;18;19;20;19;hard
+68;How old am I?;19;18;22;19;hard
+69;How old am I?;19;18;17;19;hard
+70;How old am I?;20;17;19;19;hard
+71;Which country has the largest GDP?;Switzerland;China;Brazil;China;medium
+72;Which country has the largest GDP?;Brazil;Switzerland;China;China;medium
+73;Which country has the largest GDP?;Switzerland;Uk;Canada;Uk;medium
+74;Which country has the largest GDP?;China;Uk;Brazil;China;medium
+75;Which country has the largest GDP?;China;Brazil;Uk;China;medium
+76;Which country has the largest GDP?;Brazil;Switzerland;Romania;Switzerland;medium
+77;Which country has the largest GDP?;Canada;Romania;Brazil;Canada;medium
+78;Which country has the largest GDP?;Canada;China;Switzerland;China;medium
+79;Which country has the largest GDP?;Uk;Romania;Brazil;Uk;medium
+80;Which country has the largest GDP?;Brazil;China;Uk;China;medium
+81;Which country has the largest GDP?;Switzerland;Romania;Uk;Uk;medium
+82;Which country has the largest GDP?;Brazil;Uk;Canada;Uk;medium
+83;Which country has the largest GDP?;Switzerland;China;Canada;China;medium
+84;Which country has the largest GDP?;Canada;Uk;China;China;medium
+85;Which country has the largest GDP?;China;Switzerland;Brazil;China;medium
+86;Which country has the largest GDP?;China;Uk;Romania;China;medium
+87;Which country has the largest GDP?;Romania;Switzerland;China;China;medium
+88;Which country has the largest GDP?;Brazil;Uk;Canada;Uk;medium
+89;Which country has the largest GDP?;Brazil;Canada;Romania;Canada;medium
+90;Which country has the largest GDP?;China;Switzerland;Canada;China;medium
+91;Which country has the largest GDP?;Switzerland;Romania;China;China;medium
+92;Which country has the largest GDP?;Romania;Brazil;Canada;Canada;medium
+93;Which country has the largest GDP?;Canada;Uk;Romania;Uk;medium
+94;Which country has the largest GDP?;China;Brazil;Uk;China;medium
+95;Which country has the largest GDP?;Romania;China;Brazil;China;medium
+96;Which country has the largest GDP?;China;Uk;Canada;China;medium
+97;Which country has the largest GDP?;Romania;Canada;Uk;Uk;medium
+98;Which country has the largest GDP?;Uk;Romania;Canada;Uk;medium
+99;Which country has the largest GDP?;Romania;Switzerland;Canada;Canada;medium
+100;Which country has the largest GDP?;Romania;Canada;China;China;medium

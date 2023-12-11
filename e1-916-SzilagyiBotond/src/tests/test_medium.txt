@@ -1,0 +1,10 @@
+40;What is the smallest number?;9;3;2;2;easy
+94;What is the smallest number?;Brazil;Switzerland;China;China;medium
+79;What is the smallest number?;Switzerland;Brazil;Romania;Switzerland;medium
+43;What is the smallest number?;10;8;4;4;easy
+50;What is the smallest number?;8;3;6;3;easy
+45;What is the smallest number?;5;2;10;2;easy
+84;What is the smallest number?;Romania;Brazil;Uk;Uk;medium
+96;What is the smallest number?;China;Uk;Romania;China;medium
+78;What is the smallest number?;Brazil;Romania;China;China;medium
+91;What is the smallest number?;China;Romania;Brazil;China;medium

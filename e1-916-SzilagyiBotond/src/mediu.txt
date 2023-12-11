@@ -1,0 +1,2 @@
+13;WHat is the biggest number?;6;7;2;7;easy
+78;Which country has the largest GDP?;China;Romania;Brazil;China;medium
